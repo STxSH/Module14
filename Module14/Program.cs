@@ -6,7 +6,6 @@ namespace Module14
     {
         static void Main(string[] args)
         {
-
             var phoneBook = new List<Contact>();
 
             phoneBook.Add(new Contact("Игорь", "Николаев", 79990000001, "igor@example.com"));
